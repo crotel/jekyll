@@ -1,10 +1,10 @@
 ---
 layout: category_index
-title: Writing
-permalink: /writing/
-category_name: writing
----
+title: prose
+permalink: /prose/
+category_name: prose
 
+---
 <!--
 
 Set the front matter:
