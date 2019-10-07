@@ -1,6 +1,6 @@
 ---
 layout: category_index
-title: prose
+title: writing
 permalink: /writing/
 category_name: writing
 
