@@ -1,8 +1,8 @@
 ---
 layout: category_index
 title: prose
-permalink: /prose/
-category_name: prose
+permalink: /writing/
+category_name: writing
 
 ---
 <!--
