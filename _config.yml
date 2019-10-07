@@ -6,7 +6,7 @@ github_repo: write
 github_username: crotel
 theme_color: light
 remote_theme: internet-de-france/athena
-baseurl: /write
+baseurl: /
 defaults:
   - scope:
       path: ''
